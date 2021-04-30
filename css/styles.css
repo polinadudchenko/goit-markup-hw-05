@@ -199,6 +199,7 @@ img {
 .studio-btn:focus {
   color: var(--accent-color);
   background-color: var(--light-bg);
+  outline: none;
 }
 
 /* hero */
