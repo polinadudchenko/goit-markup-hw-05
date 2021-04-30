@@ -113,7 +113,7 @@ img {
   line-height: 1.19;
   margin-right: 93px;
   padding-top: 24px;
-  padding-bottom: 24px;
+  padding-bottom: 23px;
 }
 
 .logo > .blue {
@@ -135,7 +135,7 @@ img {
 .site-nav .link {
   display: block;
   padding-top: 32px;
-  padding-bottom: 32px;
+  padding-bottom: 31px;
 
   font-weight: 500;
   line-height: 1.14;
@@ -149,7 +149,7 @@ img {
   display: flex;
   align-items: center;
   padding-top: 32px;
-  padding-bottom: 32px;
+  padding-bottom: 31px;
 
   font-weight: 500;
   line-height: 1.14;
